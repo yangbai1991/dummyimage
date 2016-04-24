@@ -1,0 +1,17 @@
+{
+    "name": "yangbai1991/dummyimage",
+    "description": "Create a dummy pictures online",
+    "type": "tools",
+    "keywords": ["tools","php","dummyimage"],
+    "homepage": "dummyimage.yangbai.me",
+    "license": "Apache2",
+    "authors": [
+        {
+            "name": "yangbai",
+            "email": "yangbai1991@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
