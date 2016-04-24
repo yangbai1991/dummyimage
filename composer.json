@@ -3,7 +3,7 @@
     "description": "Create a dummy pictures online",
     "type": "tools",
     "keywords": ["tools","php","dummyimage"],
-    "homepage": "dummyimage.yangbai.me",
+    "homepage": "http://dummyimage.yangbai.me",
     "license": "Apache2",
     "authors": [
         {
